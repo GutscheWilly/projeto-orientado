@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "ts-node main.ts"
+    "dev": "ts-node ./adapter/main.ts"
   },
   "keywords": [],
   "author": "",
