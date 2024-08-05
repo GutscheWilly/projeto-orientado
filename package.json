@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "ts-node ./flyweight/main.ts"
+    "dev": "ts-node ./builder/main.ts"
   },
   "keywords": [],
   "author": "",
